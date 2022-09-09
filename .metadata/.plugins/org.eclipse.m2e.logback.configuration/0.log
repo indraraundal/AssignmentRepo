@@ -53,3 +53,14 @@
 2022-09-09 15:58:04,236 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRepository\FirstGithubProject\SenariousAutomation\src\main\resources
 2022-09-09 15:58:04,238 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-09 15:58:04,239 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRepository\FirstGithubProject\SenariousAutomation\src\test\resources
+2022-09-09 16:38:18,677 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-09 16:54:40,623 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-09 16:56:57,143 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\GithubRepository\AssignmentRepo\AssignmentPrograms\pom.xml
+2022-09-09 16:56:57,871 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AssignmentPrograms:AssignmentPrograms:0.0.1-SNAPSHOT @ D:\GithubRepository\AssignmentRepo\AssignmentPrograms\pom.xml.
+2022-09-09 16:56:58,291 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AssignmentPrograms/src/main/java
+2022-09-09 16:56:58,298 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AssignmentPrograms/src/test/java
+2022-09-09 16:56:58,402 [Worker-5: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-09-09 16:56:59,349 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 16:56:59,350 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRepository\AssignmentRepo\AssignmentPrograms\src\main\resources
+2022-09-09 16:56:59,352 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-09 16:56:59,352 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRepository\AssignmentRepo\AssignmentPrograms\src\test\resources
